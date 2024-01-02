@@ -9,6 +9,7 @@
       <li>📫 How to reach me <a href="mailto:sriharansaravanan.s@gmail.com">sriharansaravanan.s@gmail.com</a></li>
     </ul>
   </div>
+  <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haran29&label=Profile%20views&color=0e75b6&style=flat" alt="haran29" /> </p>
 
