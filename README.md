@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
 <h3 align="center">Enthusiastic IT student embarking on a journey to explore the limitless realms of technology.</h3>
 
- <div style="text-align: center; border: 1px solid #ddd; padding: 10px; margin: 20px auto; max-width: 400px;">
+ <div  align="center style="text-align: center; border: 1px solid #ddd; padding: 10px; margin: 20px auto; max-width: 400px;">
     <ul style="list-style: none; padding: 0;">
       <li>🌱 I’m currently learning MERN</li>
       <li>📄 I'm an Undergraduate at SLIIT</li>
