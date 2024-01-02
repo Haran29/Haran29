@@ -1,24 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
-<h3 align="center">A passionate full-stack developer from SriLanka</h3>
+# Sriharan Saravanan
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haran29&show_icons=true&locale=en&layout=compact" alt="haran29" /></p>
+**Education:**
+- BSc Honors in Information Technology, SLIIT (2022 – Present)
+- GCE A/L, Wesley College (2019) - Biology: B, Chemistry: A, Physics: B
+- GCE O/L, Wesley College (2015)
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haran29&" alt="haran29" /></p>
+**Projects:**
+- Library Management System: Python (Tkinter), Microsoft SQL Server, pyodbc
+- Add to Cart App: HTML, CSS, JavaScript, Firebase
+- Identity Issuing System: HTML, CSS, JavaScript, PHP
 
+**Profile:**
+Passionate full-stack developer and data scientist skilled in C, C++, Python, JavaScript, HTML, CSS. Proficient in Python libraries (NumPy, Pandas, Matplotlib), experienced with databases (MS SQL Server, Firebase). Strong problem-solving skills, enthusiastic team player.
 
+**Professional Experience:**
+Customer Service Assistant at LOLC Development Finance (Dec 2021 – Feb 2023)
 
+**Skills:**
+- Programming Languages: C, C++, Python, Java
+- Web Development: JavaScript, HTML, CSS, React JS, PHP
+- Data Science: Python, NumPy, Pandas, Matplotlib
+- Database: MS SQL Server, Firebase
+- Soft Skills: Communication, Leadership, Adaptability, Organization
 
-- 📫 How to reach me **sriharansaravan.s@gmail.com**
+**Contact Information:**
+- Email: sriharansaravanan.s@gmail.com
+- Phone: 0719990729
+- Location: Colombo, Sri Lanka
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@29_haran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@29_haran" height="30" width="40" /></a>
-</p>
+**References:**
+Sam Harry Patrick Daniel, AI/ML Engineer, NCINGA (Pvt) Ltd - Phone: 0767003662
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
+**Certificates:**
+- Python Reprogramming, NIBM (2023)
+- Full Stack Developer Program: "Python for Beginners," CODL (2023)
+- Full Stack Developer Program: "Web Design for Beginners," CODL (2023)
