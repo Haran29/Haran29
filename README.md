@@ -1,10 +1,64 @@
-<h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
+<!DOCTYPE html>
+<html lang="en">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sriharan Saravanan</title>
+</head>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@29_haran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@29_haran" height="30" width="40" /></a>
-</p>
-- 📫 How to reach me **sriharansriharansaravanan.s@gmail.comsaravan.s@gmail.com**
+<body>
+
+  <h1>Sriharan Saravanan</h1>
+
+  <h2>Education:</h2>
+  <ul>
+    <li>BSc Honors in Information Technology, SLIIT (2022 – Present)</li>
+    <li>GCE A/L, Wesley College (2019) - Biology: B, Chemistry: A, Physics: B</li>
+    <li>GCE O/L, Wesley College (2015)</li>
+  </ul>
+
+  <h2>Projects:</h2>
+  <ul>
+    <li>Library Management System: Python (Tkinter), Microsoft SQL Server, pyodbc</li>
+    <li>Add to Cart App: HTML, CSS, JavaScript, Firebase</li>
+    <li>Identity Issuing System: HTML, CSS, JavaScript, PHP</li>
+  </ul>
+
+  <h2>Profile:</h2>
+  <p>Passionate full-stack developer and data scientist skilled in C, C++, Python, JavaScript, HTML, CSS.
+    Proficient in Python libraries (NumPy, Pandas, Matplotlib), experienced with databases (MS SQL Server, Firebase).
+    Strong problem-solving skills, enthusiastic team player.</p>
+
+  <h2>Professional Experience:</h2>
+  <p>Customer Service Assistant at LOLC Development Finance (Dec 2021 – Feb 2023)</p>
+
+  <h2>Skills:</h2>
+  <ul>
+    <li>Programming Languages: C, C++, Python, Java</li>
+    <li>Web Development: JavaScript, HTML, CSS, React JS, PHP</li>
+    <li>Data Science: Python, NumPy, Pandas, Matplotlib</li>
+    <li>Database: MS SQL Server, Firebase</li>
+    <li>Soft Skills: Communication, Leadership, Adaptability, Organization</li>
+  </ul>
+
+  <h2>Contact Information:</h2>
+  <ul>
+    <li>Email: <a href="mailto:sriharansaravanan.s@gmail.com">sriharansaravanan.s@gmail.com</a></li>
+    <li>Phone: 0719990729</li>
+    <li>Location: Colombo, Sri Lanka</li>
+  </ul>
+
+  <h2>References:</h2>
+  <p>Sam Harry Patrick Daniel, AI/ML Engineer, NCINGA (Pvt) Ltd - Phone: 0767003662</p>
+
+  <h2>Certificates:</h2>
+  <ul>
+    <li>Python Reprogramming, NIBM (2023)</li>
+    <li>Full Stack Developer Program: "Python for Beginners," CODL (2023)</li>
+    <li>Full Stack Developer Program: "Web Design for Beginners," CODL (2023)</li>
+  </ul>
+
+</body>
+
+</html>
