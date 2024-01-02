@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
 <h3 align="center">A passionate full-stack developer from SriLanka</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haran29&show_icons=true&locale=en&layout=compact" alt="haran29" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haran29&" alt="haran29" /></p>
+
+
+
+
 - 📫 How to reach me **sriharansaravan.s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -8,9 +15,7 @@
 <a href="https://twitter.com/@29_haran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@29_haran" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haran29&show_icons=true&locale=en&layout=compact" alt="haran29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haran29&" alt="haran29" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
