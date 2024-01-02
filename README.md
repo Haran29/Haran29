@@ -28,8 +28,6 @@ Customer Service Assistant at LOLC Development Finance (Dec 2021 – Feb 2023)
 - Phone: 0719990729
 - Location: Colombo, Sri Lanka
 
-**References:**
-Sam Harry Patrick Daniel, AI/ML Engineer, NCINGA (Pvt) Ltd - Phone: 0767003662
 
 **Certificates:**
 - Python Reprogramming, NIBM (2023)
