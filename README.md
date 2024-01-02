@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
 <h3 align="center">Enthusiastic IT student embarking on a journey to explore the limitless realms of technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haran29&label=Profile%20views&color=0e75b6&style=flat" alt="haran29" /> </p>
+ <div style="text-align: center; border: 1px solid #ddd; padding: 10px; margin: 20px auto; max-width: 400px;">
+    <ul style="list-style: none; padding: 0;">
+      <li>🌱 I’m currently learning MERN</li>
+      <li>📄 I'm an Undergraduate at SLIIT</li>
+      <li>💬 Ask me about Python</li>
+      <li>📫 How to reach me <a href="mailto:sriharansaravanan.s@gmail.com">sriharansaravanan.s@gmail.com</a></li>
+    </ul>
+  </div>
 
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **sriharansriharansaravanan.s@gmail.comsaravan.s@gmail.com**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haran29&label=Profile%20views&color=0e75b6&style=flat" alt="haran29" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
