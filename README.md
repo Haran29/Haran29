@@ -8,12 +8,6 @@
 
 <br><br>
 
-<div align="left">
-    🌱 I’m currently learning MERN<br>
-    📄 I'm an Undergraduate at SLIIT<br>
-    💬 Ask me about Python<br>
-    📫 How to reach me <a href="mailto:sriharansaravanan.s@gmail.com">sriharansaravanan.s@gmail.com</a>
-  </div>
  <br>
  <br>
  <br>
