@@ -3,15 +3,8 @@
 <h3 align="center">Enthusiastic IT student embarking on a journey to explore the limitless realms of technology.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haran29&label=Profile%20views&color=0e75b6&style=flat" alt="haran29" /> </p>
 
-<hr>  
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
-
- <br>
- <br>
- <br>
-<hr>  
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 
 ### 🛠 &nbsp;Tech Stack
 
