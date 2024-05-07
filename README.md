@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
 
-<h3 align="center">Enthusiastic IT student embarking on a journey to explore the limitless realms of technology.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haran29&label=Profile%20views&color=0e75b6&style=flat" alt="haran29" /> </p>
 
 
