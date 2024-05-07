@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haran29&label=Profile%20views&color=0e75b6&style=flat" alt="haran29" /> </p>
+
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
@@ -21,3 +21,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+
+
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haran29&label=Profile%20views&color=0e75b6&style=flat" alt="haran29" /> </p>
