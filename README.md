@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sriahran Saravanan</h1>
-
-
-
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 
 <!--![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
