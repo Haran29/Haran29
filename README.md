@@ -13,16 +13,21 @@ Backend Engineer • Evolving into AI Engineering
 ## Technical Stack
 <table align="center">
 <tr>
+<td align="center"><b>Frontend</b></td>
 <td align="center"><b>Backend</b></td>
 <td align="center"><b>Databases</b></td>
 <td align="center"><b>Cloud & DevOps</b></td>
 </tr>
 <tr>
 <td align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,typescript,java&theme=dark" />
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<br/>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions&theme=dark" />
