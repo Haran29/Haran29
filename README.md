@@ -23,9 +23,6 @@ Backend Engineer • Evolving into AI Engineering
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40"/>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions&theme=dark" />
