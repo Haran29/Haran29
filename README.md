@@ -74,6 +74,7 @@ Backend Engineer • Evolving into AI Engineering
 
 ---
 
-<p align="center">
-<i>Designing systems that scale. Engineering systems that last.</i>
-</p>
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+
+
