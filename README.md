@@ -74,7 +74,7 @@ Backend Engineer • Evolving into AI Engineering
 
 ---
 
-<img src="koi/koi.gif" width="1024" alt="My koi" />
+<img src="koi/koi.gif" width="512" alt="My koi" />
 
 
 
